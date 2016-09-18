@@ -1,0 +1,83 @@
+/*.twopoker {
+	position: relative; text-align: center;
+	padding-top: 0px;
+     margin:0px;
+   }*/
+.poker {
+         position: relative; text-align: center;
+         width: 400px;
+         margin: 0px;
+        
+         }
+#pink {
+	margin-left: 180px;
+	z-index: 1;
+	
+}
+.blue {
+	margin-right: 400px;
+	background-image: url("bluebackground.png"); 
+	width: 700px; 
+	height: 619px;
+	margin: 0px;
+	padding: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 400px 618.02px;
+	
+	
+}
+.coffee {
+	
+	width: 90px;
+	padding: 10px;
+	
+}
+.coffeeline1 {
+	width: 110px;
+	position: absolute; 
+	padding-top: 135px;
+	padding-left: 400px;
+	z-index: 0;
+	background-color: transparent;
+}
+.coffeeline2 {
+	width: 110px;
+	position: absolute; 
+	padding-top: 135px;
+	padding-left: 510px;
+	z-index: 0;
+	background-color: transparent;
+	
+}
+.coffeeline3 {
+	width: 110px;
+	position: absolute; 
+	padding-top: 135px;
+	padding-left: 510px;
+	z-index: 0;
+	background-color: transparent;
+	
+}
+.blanks {
+	margin-top: -500px;
+	width: 700px;
+}
+.blank1 {
+	background-color: white;
+	position: relative;
+	width: 150px;
+	height: 500px;
+	z-index: 1;
+	margin-top: -500px;
+	margin-left: 0px;
+}
+.blank2 {
+	background-color: white;
+	position: relative;
+	width: 120px;
+	height: 500px;
+	z-index: 1;
+	margin-left: 550px;
+	margin-top: -500px;
+}
